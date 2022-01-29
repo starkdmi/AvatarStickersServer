@@ -1,0 +1,7 @@
+{
+   "name": "Avatar Stickers Server",
+   "description": "Heroku Server",
+   "repository": "https://github.com/starkdmi/AvatarStickersServer",
+   "logo": "http://facemotion.herokuapp.com/icon",
+   "keywords": ["python", "stickers", "server"]
+}
