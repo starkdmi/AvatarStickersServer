@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 512 512">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="FlyPath1" vectornator:layerName="FlyPath1">
+<path d="M517.942+85.2098C517.942+85.2098+341.39+159.935+211.167+158.385C99.9899+157.063+49.0715+202.976-3.17658+242" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath2" vectornator:layerName="FlyPath2">
+<path d="M-4.03282+196.041C-4.03282+196.041+91.9702+482.914+222.193+481.365C333.371+480.042+479.368+284.745+517.866+232.724" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath3" vectornator:layerName="FlyPath3">
+<path d="M-10.4525+49.9028C-10.4525+49.9028+24.2167+321.47+154.44+319.921C201.961+319.355+241.41+255.741+308.89+244.046C399.281+228.38+491.94+233.666+517.866+232.724" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath4" vectornator:layerName="FlyPath4">
+<path d="M-34.131+484.424C-34.131+484.424+2.71685+437.245+130.807+438.859C182.887+439.515+203.632+336.512+271.113+324.817C361.503+309.151+384.927+490.787+521.126+475.312" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath5" vectornator:layerName="FlyPath5">
+<path d="M521.126+352.567C521.126+352.567+484.278+305.388+356.187+307.002C304.108+307.658+283.362+204.655+215.882+192.959C125.491+177.293+102.067+358.93-34.131+343.455" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath6" vectornator:layerName="FlyPath6">
+<path d="M512.202+430.823C512.202+430.823+452.926+443.245+389.079+432.49C349.533+425.828+306.129+396.171+280.319+391.698C189.929+376.032+115.544+413.255-11.8293+424.237" opacity="1" fill="none"/>
+</g>
+<g id="FlyPath7" vectornator:layerName="FlyPath7">
+<path d="M512.632+81.8036C512.632+81.8036+415.328+116.134+368.641+91.6735C328.694+70.7444+265.224+42.359+248.846+39.5205C158.455+23.8545+124.665+128.981-2.70846+139.963" opacity="1" fill="none"/>
+</g>
+</svg>

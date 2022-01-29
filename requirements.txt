@@ -1,0 +1,20 @@
+# App
+./python-lottie/
+./python_avatars/
+fastapi
+aiofiles
+uvicorn
+requests
+newrelic
+
+# Lottie
+pillow
+cairosvg
+fonttools
+grapheme
+opencv-python
+numpy
+PyQt5
+QScintilla
+coverage
+flake8

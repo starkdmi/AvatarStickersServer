@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="main" vectornator:layerName="main">
+<path stroke="#ff5353" stroke-width="4" d="M74.1227+73.0789C104.716+85.1661+973.078+451.284+973.078+451.284C973.078+451.284+1015.13+465.664+1011.8+492.214C1008.46+518.764+974.162+530.934+974.162+530.934L750.674+606.167C750.674+606.167+683.194+827.446+669.898+869.46C656.602+911.515+645.973+912.516+645.973+912.516C633.636+917.892+622.341+909.306+622.341+909.306L477.919+777.639L252.805+950.236C191.952+976.786+169.82+921.477+169.82+921.477L14.7286+126.888C0.974159+65.3681+41.8207+60.3665+74.1227+73.0789Z" fill="#ff5353" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+<path d="M185.195+270.537C184.069+252.125+215.195+268.719+215.195+268.719L752.109+607.758C752.109+607.758+689.056+824.483+675.76+865.676C662.506+906.87+648.365+913.708+648.365+913.708L603.57+659.791C603.57+659.791+217.738+307.586+201.149+292.398C184.56+277.252+185.195+270.537+185.195+270.537Z" opacity="1" fill="#eb334a"/>
+</g>
+</svg>
