@@ -57,6 +57,12 @@ curl -X POST \
       -H 'Content-type: application/json' \
       -H 'Token: SERVER_TOKEN' \
       -d '{"service": "telegram", "hatColor": "#25557C", "gender": "female", "text_color": "#EDF1F2", "shirt_graphic": "resist", "beardColor": "#B58143", "mouth": "smile", "hairColor": "#B58143", "skinColor": "#D08B5B", "accessory": "", "eyes": "happy", "clothesColor": "#25557C", "hair": "long_not_too_long", "shirt_text": "", "clothes": "hoodie", "beard": "", "emotion": "Football", "eyebrows": "default"}' 'http://macpro.home:5000/avatar' > animation.json
+
+curl -X POST \
+      -H 'Accept: application/json' \
+      -H 'Content-type: application/json' \
+      -H 'Token: SERVER_TOKEN' \
+      -d '{"service": "telegram", "emotion": "Laugh", "gender": "female", "mouth": "smile", "eyes": "happy", "eyebrows": "default", "hair": "long_not_too_long", "clothes": "hoodie", "hairColor": "#A55727", "skinColor": "#EDB98A", "clothesColor": "#E0543A"}' 'http://macpro.home:5000/avatar' > animation.json
 ```
 
 ## Licenses • Attribution
