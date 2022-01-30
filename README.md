@@ -7,7 +7,6 @@ You can deploy server on Heroku in a minute
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/starkdmi/AvatarStickersServer)
 
 Demo server is available at [facemotion.herokuapp.com](https://facemotion.herokuapp.com). It automatically deployed from **main** branch on changes. 
-
 Demo server isn't used in production and uses free dyno plan. 
 
 ## Build locally
@@ -57,7 +56,7 @@ curl -X POST \
       -H 'Accept: application/json' \
       -H 'Content-type: application/json' \
       -H 'Token: SERVER_TOKEN' \
-      -d '{"hatColor": "#25557C", "gender": "female", "text_color": "#EDF1F2", "shirt_graphic": "resist", "beardColor": "#B58143", "mouth": "smile", "hairColor": "#B58143", "skinColor": "#D08B5B", "accessory": "", "eyes": "happy", "clothesColor": "#25557C", "hair": "long_not_too_long", "shirt_text": "", "clothes": "hoodie", "beard": "", "emotion": "Football", "eyebrows": "default"}' 'http://macpro.home:5000/avatar' >> animation.json
+      -d '{"service": "telegram", "hatColor": "#25557C", "gender": "female", "text_color": "#EDF1F2", "shirt_graphic": "resist", "beardColor": "#B58143", "mouth": "smile", "hairColor": "#B58143", "skinColor": "#D08B5B", "accessory": "", "eyes": "happy", "clothesColor": "#25557C", "hair": "long_not_too_long", "shirt_text": "", "clothes": "hoodie", "beard": "", "emotion": "Football", "eyebrows": "default"}' 'http://macpro.home:5000/avatar' > animation.json
 ```
 
 ## Licenses • Attribution
