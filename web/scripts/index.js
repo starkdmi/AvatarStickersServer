@@ -5,6 +5,6 @@
       renderer: 'svg',
       loop: true,
       autoplay: true,
-      path: 'Jane/' + emotion + '.json' //'sampleAvatar.json'
+      path: 'Jane/' + emotion + '.json'
    })
 });
