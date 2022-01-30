@@ -1,5 +1,5 @@
 ## About
-Python Server for [Avatar Stickers](https://apps.apple.com/us/app/avatar-stickers/id1574023061) iOS Application. Source code of iOS application available [here](https://github.com/starkdmi/AvatarStickers). The application was created while participating in the [contest](https://contest.com/sticker-app). Server generates animations in [TGS](https://core.telegram.org/animated_stickers) and WebP formats using [Lottie](https://airbnb.io/lottie).
+Python Server for [Avatar Stickers](https://apps.apple.com/us/app/avatar-stickers/id1574023061) iOS Application. Server generates animations in [TGS](https://core.telegram.org/animated_stickers) and WebP formats using [Lottie](https://airbnb.io/lottie). Source code of iOS application available [here](https://github.com/starkdmi/AvatarStickers). The application was created while participating in the [contest](https://contest.com/sticker-app). 
 
 ## Ready to use
 You can deploy server on Heroku in a minute
